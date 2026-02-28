@@ -8,12 +8,8 @@ Below is the graph that shows how increasing number of iterations lowers loss of
 Generated songs  
 Song 0:  
 
-<audio controls>
-  <source src="lab1/assets/generated_song_0.wav" type="audio/wav">
-</audio>  
+[Listen to Song 0](lab1/assets/generated_song_0.wav) 
 
 Song 1:  
 
-<audio controls>
-  <source src="lab1/assets/generated_song_1.wav" type="audio/wav">
-</audio>
+[Listen to Song 1](lab1/assets/generated_song_1.wav)
