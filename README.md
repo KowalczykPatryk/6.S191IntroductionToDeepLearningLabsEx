@@ -9,11 +9,11 @@ Generated songs
 Song 0:  
 
 <audio controls>
-  <source src="lab1/assets/generated_song_0" type="audio/wav">
+  <source src="lab1/assets/generated_song_0.wav" type="audio/wav">
 </audio>  
 
 Song 1:  
 
 <audio controls>
-  <source src="lab1/assets/generated_song_1" type="audio/wav">
+  <source src="lab1/assets/generated_song_1.wav" type="audio/wav">
 </audio>
