@@ -8,8 +8,20 @@ Below is the graph that shows how increasing number of iterations lowers loss of
 Generated songs  
 Song 0:  
 
-[Listen to Song 0](lab1/assets/generated_song_0.wav) 
+[Check Song 0](lab1/assets/generated_song_0.wav) 
 
 Song 1:  
 
-[Listen to Song 1](lab1/assets/generated_song_1.wav)
+[Check Song 1](lab1/assets/generated_song_1.wav)
+
+# Lab 2.  
+# Digit classification based on images from MNIST dataset  
+
+Here is the plot of several images along with their predictions, where correct prediction labels are blue and incorrect prediction labels are grey.
+
+![Plot of several images predictions](lab2/assets/digit_image_with_prediction_and_probabilities.png)
+
+Below is the graph that shows how increasing number of iterations lowers loss of the model during training phase with SGD and GradientTape
+
+![Loss minimization graph](lab2/assets/loss_iteration_CNN_digits.png)
+
