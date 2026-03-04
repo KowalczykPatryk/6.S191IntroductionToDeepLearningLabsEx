@@ -25,3 +25,9 @@ Below is the graph that shows how increasing number of iterations lowers loss of
 
 ![Loss minimization graph](lab2/assets/loss_iteration_CNN_digits.png)
 
+# Debiasing model using latent space with learned mean and standard deviation
+
+Bellow are the probabilities of selecting image from each group before debiasing and after  
+
+![Probabilities of each group](lab2/assets/probabilities_of_each_group.png)
+
