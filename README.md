@@ -31,3 +31,11 @@ Bellow are the probabilities of selecting image from each group before debiasing
 
 ![Probabilities of each group](lab2/assets/probabilities_of_each_group.png)
 
+# Lab 3.  
+# LLM Fine-tuning
+
+Evaluated the model by scoring with larger judge LLM
+
+Bellow histogram shows how often fine-tuned model was rated by the larger model as bad or good in mimicking somebody's style of talking. As the frame of reference "normal" and training sentences was also rated.
+
+![](lab3/assets/distribution_of_scores.png)
